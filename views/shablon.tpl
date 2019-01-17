@@ -3,7 +3,7 @@
 
 <head>
   <meta charset='utf-8'>
-  <title>Гороскоп на сегодня</title>
+  <title>BAD HOROSCOPE</title>
 
   <link
     rel="stylesheet"
