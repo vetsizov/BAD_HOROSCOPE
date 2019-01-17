@@ -21,7 +21,7 @@
 </head>
   
 <body>
-  <div class="container">
+  <div class="container" style="margin-top: 100px">
     <div class="row">
       <div class="col-3" id="pigga">
         <img onclick="Hclick1()" src="static/BP.jpg" width="200"/>
