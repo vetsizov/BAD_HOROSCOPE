@@ -1,7 +1,7 @@
 
 button {
-	border: none;
-	position: right;
+  border: none;
+  position: right;
     background: darkgrey; /*Цвет фона*/
     color: white; /* Цвет текста */
     width:200px;
@@ -17,8 +17,7 @@ button:active, button:focus {
 #pigga {text-align: right;}
 #chat {text-align: right;}
 #knopka {
-			margin-top: 30px;
-			margin-bottom: 30px;
+			margin-top: 20px;
 		}
-#kn {text-align: right;}
-#predskazanie {margin-top: 30px;}
+#kn {text-align: center;}
+#predskazanie {margin-top: 15px;}
