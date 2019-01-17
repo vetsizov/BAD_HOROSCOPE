@@ -8,7 +8,7 @@ def send_static(filename):
     return static_file(filename, root="static")
 
 @route("/")
-@view("shablon.tpl")
+@view("shablon")
 def index():
   now = dt.now()
   return {
