@@ -1,2 +1,2 @@
-# M08Test
-Test app of module 8
+# pyweb-bottle-heroku
+simple bottle heroku template
