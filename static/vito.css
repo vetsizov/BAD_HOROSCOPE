@@ -2,9 +2,9 @@
 button {
 	border: none;
 	position: right;
-    background: darkgrey; /* Черный цвет фона */
-    color: white; /* Белый цвет текста */
-    width:200px;
+    background: darkgrey; /*Цвет фона*/
+    color: white; /* Цвет текста */
+    width:180px;
     height:40px;
    }
 
