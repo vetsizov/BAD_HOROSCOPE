@@ -37,7 +37,7 @@ def generate_prophecies(total_num=5, num_sentences=3):
 
     return prophecies
 
-def check_month():
+def check_month(): #определяем месяц
     now = dt.now()
     if now.month == 1:
         return 'января'
